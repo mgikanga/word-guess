@@ -31,8 +31,13 @@ class Letter {
         }
     }
 }
+//function to compare the new letter with letter not guessed
+guess(thiis){
 
 }
+
+}
+module.exports = Letter;
 // var for the new letter 
-var newLetter = new Letter("r", "r");
-newLetter.guessing();
+//var newLetter = new Letter("r", "r");
+//newLetter.guessing();
